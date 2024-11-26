@@ -1,0 +1,14 @@
+.fields{
+	width: 250px;
+	position: center;
+	margin: auto;
+	margin-top: 15%;
+	border-style: outset;
+	padding: 20px;
+	background-color: #ececec;
+}
+
+input{
+	border-width: 2px;
+	padding: 5px;
+}
